@@ -59,7 +59,7 @@ const isRtl=computed(() => rtlLocales.includes(locale.value));
             </a> -->
           </div>
 
-          <div class="mt-10 flex flex-wrap gap-2">
+          <!-- <div class="mt-10 flex flex-wrap gap-2">
             <span
               class="rounded-full border border-ternary-light/60 dark:border-ternary-dark/70 px-3 py-1 text-xs text-ternary-dark/80 dark:text-ternary-light/80">Laravel</span>
             <span
@@ -70,7 +70,7 @@ const isRtl=computed(() => rtlLocales.includes(locale.value));
               class="rounded-full border border-ternary-light/60 dark:border-ternary-dark/70 px-3 py-1 text-xs text-ternary-dark/80 dark:text-ternary-light/80">React</span>
             <span
               class="rounded-full border border-ternary-light/60 dark:border-ternary-dark/70 px-3 py-1 text-xs text-ternary-dark/80 dark:text-ternary-light/80">Tailwind</span>
-          </div>
+          </div> -->
         </div>
 
         <div class="lg:col-span-5">
