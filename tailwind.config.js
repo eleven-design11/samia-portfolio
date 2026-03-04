@@ -24,9 +24,9 @@ module.exports={
 				'ternary-light': '#F5E9FF', // soft lavender
 
 				// Girly dark theme
-				'primary-dark': '#2A1138', // deep purple
-				'secondary-dark': '#4B154F', // rich magenta-purple
-				'ternary-dark': '#5B2A86', // vibrant violet
+				'primary-dark': '#7f53b3', // deep purple
+				'secondary-dark': '#7567f6', // rich magenta-purple
+				'ternary-dark': '#447ef6', // vibrant violet
 			},
 			container: {
 				padding: {
