@@ -37,7 +37,7 @@ const isRtl=computed(() => rtlLocales.includes(locale.value));
             {{ t('HiIam') }}
             <span
               class="block text-transparent bg-clip-text bg-gradient-to-r from-blue-500 via-violet-500 to-fuchsia-500">
-              {{ t('Mostefa Boudjema') }}
+              {{ t('Samia Boudjema') }}
             </span>
           </h1>
 
@@ -80,7 +80,7 @@ const isRtl=computed(() => rtlLocales.includes(locale.value));
             </div>
             <div
               class="relative rounded-3xl border border-ternary-light/60 dark:border-ternary-dark/80 bg-white/60 dark:bg-ternary-dark/40 backdrop-blur p-4">
-              <NuxtImg :src="configs.profile_photo" :alt="t('Mostefa Boudjema')" width="800" height="800"
+              <NuxtImg :src="configs.profile_photo" :alt="t('Samia Boudjema')" width="800" height="800"
                 class="w-full h-auto rounded-2xl object-cover" />
             </div>
           </div>

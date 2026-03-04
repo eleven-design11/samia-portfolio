@@ -105,7 +105,7 @@ import { socialLinks } from "@/data/socialLinks";
 const { t, locale }=useI18n();
 
 useHead({
-  title: () => `${t('CV')} - ${t('Mostefa Boudjema')}`
+  title: () => `${t('CV')} - ${t('Samia Boudjema')}`
 })
 definePageMeta({
 	layout: 'empty'

@@ -19,7 +19,7 @@ const { t }=useI18n({
   useScope: "global",
 });
 useHead({
-  title: () => `${t('Home')} - ${t('Mostefa Boudjema')}`,
+  title: () => `${t('Home')} - ${t('Samia Boudjema')}`,
   meta: [
     {
       name: 'description',

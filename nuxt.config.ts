@@ -19,13 +19,13 @@ export default defineNuxtConfig({
     },
     app: {
         head: {
-            title: 'Mostefa Boudjema',
+            title: 'Samia Boudjema',
             meta: [
                 { property: 'og:title', content: 'Mostfa – Web Developer' },
                 {
                     property: 'og:description',
                     content:
-                        'Mostefa Boudjema - Laravel & Vue.js developer portfolio.',
+                        'Samia Boudjema - Laravel & Vue.js developer portfolio.',
                 },
                 {
                     property: 'og:image',
@@ -125,7 +125,7 @@ gtag('config', 'G-L5HVZ2VCP7');`,
                 process.env.NUXT_PUBLIC_USE_ALL_POSTS === 'true' || false,
             i18nLocale: process.env.I18N_LOCALE || 'en',
             i18nFallbackLocale: process.env.I18N_FALLBACK_LOCALE || 'en',
-            authorName: process.env.AUTHOR_NAME || 'Mostefa Boudjema',
+            authorName: process.env.AUTHOR_NAME || 'Samia Boudjema',
             apiUrl:
                 process.env.API_URL ||
                 'https://backend-mostefa-boudjema.vercel.app',
@@ -136,7 +136,7 @@ gtag('config', 'G-L5HVZ2VCP7');`,
             showPricing: process.env.VITE_SHOW_SHOW_PRICING === 'true' || false,
             showBlog: process.env.SHOW_BLOG === 'true' || false,
             showContactForm: process.env.SHOW_CONTACT_FORM === 'true' || false,
-            cvPath: process.env.CV_PATH || '/files/MostefaBoudjema-Resume.pdf',
+            cvPath: process.env.CV_PATH || '/files/SamiaBoudjema-Resume.pdf',
             videoLinkEn:
                 process.env.VIDEO_LINK_EN ||
                 'https://www.youtube.com/embed/CMu_27ZURwA?si=sriXHIbvcos5620e',

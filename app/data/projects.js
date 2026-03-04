@@ -1132,7 +1132,7 @@ const allProjects=[
   },
   {
     id: 7,
-    title: 'Mostefa - Portfolio website',
+    title: 'Samia - Portfolio website',
     hide: true,
     category: 'Vue App',
     link: 'Portfolio',
@@ -1142,7 +1142,7 @@ const allProjects=[
       { id: 2, ...SMALL_IMAGE_URLS.tailwind },
     ],
     singleProjectHeader: {
-      singleProjectTitle: "Mostefa - Portfolio website",
+      singleProjectTitle: "Samia - Portfolio website",
       singleProjectDate: "20 Mar 2023",
       singleProjectTag: "UI / Frontend",
     },

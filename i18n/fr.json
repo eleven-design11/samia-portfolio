@@ -1,6 +1,6 @@
 {
     "Projects": "Projets",
-    "Mostefa Boudjema": "Mostefa Boudjema",
+    "Samia Boudjema": "Samia Boudjema",
     "About Me": "À propos",
     "Contact": "Contact",
     "Close": "Fermer",
@@ -288,9 +288,9 @@
     "QA Engineer": "Ingénieur de qualité",
     "Business Analyst": "Analyste commercial",
     "Portfolio": "Portfolio",
-    "Hi, Iam Mostfa": "Bonjour, je suis Mostfa",
+    "Hi, Iam Mostfa": "Bonjour, je suis Samia",
     "HiIam": "Bonjour, je suis",
-    "Mostfa": "Mostfa",
+    "Mostfa": "Samia",
     "Skills": "Compétences",
     "Previous": "Précédent",
     "Sending...": "Envoi...",
@@ -395,8 +395,8 @@
     },
     "meta": {
         "home": {
-            "description": "Mostefa Boudjema est un développeur web full-stack spécialisé dans la création de sites modernes et responsives avec Nuxt 3, Tailwind CSS et Vue 3. Découvrez ses projets, articles de blog et options de contact.",
-            "keywords": "Mostefa Boudjema, Développeur Web, Portfolio Nuxt 3, Vue 3, Tailwind CSS, SEO, Design Responsive, Développeur Freelance, Développement Web, JavaScript, Frontend, Backend, SSR, SPA"
+            "description": "Samia Boudjema est un développeur web full-stack spécialisé dans la création de sites modernes et responsives avec Nuxt 3, Tailwind CSS et Vue 3. Découvrez ses projets, articles de blog et options de contact.",
+            "keywords": "Samia Boudjema, Développeur Web, Portfolio Nuxt 3, Vue 3, Tailwind CSS, SEO, Design Responsive, Développeur Freelance, Développement Web, JavaScript, Frontend, Backend, SSR, SPA"
         }
     },
     "pricing": {

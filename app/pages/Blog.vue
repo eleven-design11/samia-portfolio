@@ -13,7 +13,7 @@ import { useI18n } from 'vue-i18n';
 import posts from '@/data/posts.js';
 const { t } = useI18n();
 useHead({
-  title: () => `${t('Blog')} - ${t('Mostefa Boudjema')}`
+  title: () => `${t('Blog')} - ${t('Samia Boudjema')}`
 })
 </script>
 

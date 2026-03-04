@@ -1,4 +1,4 @@
-# Mostefa Boudjema Portfolio
+# Samia Boudjema Portfolio
 
 A modern, responsive web portfolio built with Nuxt 3 and Tailwind CSS. This project showcases a professional portfolio website with a clean design, smooth animations, and server-side rendering capabilities.
 
@@ -130,7 +130,7 @@ I18N_LOCALE=en
 I18N_FALLBACK_LOCALE=en
 
 # Content
-AUTHOR_NAME=Mostefa Boudjema
+AUTHOR_NAME=Samia Boudjema
 SHOW_CV=true
 SHOW_MULTI_LANG=true
 SHOW_HIRE_ME=true
@@ -138,7 +138,7 @@ SHOW_BLOG=true
 SHOW_CONTACT_FORM=true
 
 # Assets
-CV_PATH=/files/MostefaBoudjema-Resume.pdf
+CV_PATH=/files/SamiaBoudjema-Resume.pdf
 VIDEO_LINK_EN=https://www.youtube.com/embed/CMu_27ZURwA?si=sriXHIbvcos5620e
 
 # Contact

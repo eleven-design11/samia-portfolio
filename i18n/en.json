@@ -1,6 +1,6 @@
 {
     "Projects": "Projects",
-    "Mostefa Boudjema": "Mostefa Boudjema",
+    "Samia Boudjema": "Samia Boudjema",
     "About Me": "About",
     "Contact": "Contact",
     "Close": "Close",
@@ -11,7 +11,7 @@
     "en": "عربي",
     "Projects Screenshots": "Projects Screenshots",
     "404 Page Not found": "404 Page Not found",
-    "AboutMe1": "Hello! I am a full-stack web developer with expertise in Laravel and Vue.js. With several years of experience in the field, I have honed my skills in building robust and scalable web applications that meet the needs of my clients.",
+    "AboutMe1": "Hello! I am a professional graphic designer specializing in logo design and custom visual creations. With several years of experience in the field, I have developed strong skills in creating unique and impactful designs that reflect each client's vision and brand identity.",
     "AboutMe2": "As a Laravel developer, I am well-versed in PHP and the Laravel framework, which I use to create backend solutions that power web applications. My proficiency in the Laravel framework allows me to build complex systems with ease, from database design to API integration.",
     "AboutMe3": "On the frontend, I specialize in Vue.js, which I use to create dynamic and interactive user interfaces. I am also proficient in HTML, CSS, and JavaScript, which I use to ensure seamless integration of the frontend and backend.",
     "AboutMe4": "In addition to my technical skills, I am committed to providing my clients with exceptional customer service. I take the time to understand their needs and work collaboratively with them to deliver solutions that exceed their expectations.",
@@ -423,8 +423,8 @@
     },
     "meta": {
         "home": {
-            "description": "Mostefa Boudjema is a full-stack web developer specializing in modern, responsive websites using Nuxt 3, Tailwind CSS, and Vue 3. Explore projects, blog posts, and contact options.",
-            "keywords": "Mostefa Boudjema, Web Developer, Nuxt 3 Portfolio, Vue 3, Tailwind CSS, SEO, Responsive Design, Freelance Developer, Web Development, JavaScript, Frontend, Backend, SSR, SPA"
+            "description": "Samia Boudjema is a full-stack web developer specializing in modern, responsive websites using Nuxt 3, Tailwind CSS, and Vue 3. Explore projects, blog posts, and contact options.",
+            "keywords": "Samia Boudjema, Web Developer, Nuxt 3 Portfolio, Vue 3, Tailwind CSS, SEO, Responsive Design, Freelance Developer, Web Development, JavaScript, Frontend, Backend, SSR, SPA"
         }
     },
     "pricing": {

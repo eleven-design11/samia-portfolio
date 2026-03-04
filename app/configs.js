@@ -9,7 +9,7 @@ import profilePhoto from '/images/me3.webp';
 import whatsapp from '/images/whatsapp2.svg';
 
 const configs={
-  name: 'Mostefa Boudjema',
+  name: 'Samia Boudjema',
   jobTitle: 'Job Title4',
   hero_image: heroImage,
   hero_image_dark: heroImageDark,
@@ -20,17 +20,17 @@ const configs={
   page_404: page404,
   profile_photo: profilePhoto,
   whatsapp: whatsapp,
-  cv_path: import.meta.env.VITE_CV_PATH||'/files/MostefaBoudjema-Resume.pdf',
+  cv_path: import.meta.env.VITE_CV_PATH||'/files/SamiaBoudjema-Resume.pdf',
   videoLinkEn: import.meta.env.VITE_VIDEO_LINK_EN||"https://www.youtube.com/embed/CMu_27ZURwA?si=sriXHIbvcos5620e",
   whatsappNumber: import.meta.env.VITE_WHATSAPP_NUMBER||"213793692289",
   full_list: JSON.parse(import.meta.env.VITE_FULL_LIST||'[30,3,10,29,14,19,27,18,9,26,15,24,22,12,11,5,23,4,6,28,7,24,8,2,25,1,13,21,16,17,20]'),
   home_list: JSON.parse(import.meta.env.VITE_HOME_LIST||'[30,3,10,29,14,19]'),
-  show_cv: import.meta.env.VITE_SHOW_CV==='true'||false,
-  show_pricing: import.meta.env.VITE_SHOW_SHOW_PRICING==='true'||false,
-  show_multi_lang: import.meta.env.SHOW_MULTI_LANG==='true'||false,
-  show_hire_me: import.meta.env.VITE_SHOW_HIRE_ME==='true'||false,
-  show_contact_form: import.meta.env.VITE_SHOW_CONTACT_FORM==='true'||false,
-  show_blog: import.meta.env.VITE_SHOW_BLOG==='true'||false,
+  show_cv: false,
+  show_pricing: false,
+  show_multi_lang: true,
+  show_hire_me: false,
+  show_contact_form: false,
+  show_blog: false,
   contacts: [
     {
       id: 1,
