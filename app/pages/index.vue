@@ -4,7 +4,7 @@
     <Home2025FeaturedWork data-aos="fade-up" data-aos-delay="150" />
     <Home2025Stats />
     <!-- <Home2025Clients data-aos="fade-up" data-aos-delay="150" /> -->
-    <Home2025BlogTeaser data-aos="fade-up" data-aos-delay="150" />
+    <!-- <Home2025BlogTeaser data-aos="fade-up" data-aos-delay="150" /> -->
     <Home2025Cta />
   </div>
 </template>

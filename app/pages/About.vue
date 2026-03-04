@@ -8,15 +8,15 @@
 
   <AboutCounter />
 
-  <AboutEmploymentHistory />
+  <!-- <AboutEmploymentHistory /> -->
   
   <AboutEducation />
 
   <AboutsSkills />
 
-  <div class="container mx-auto">
+  <!-- <div class="container mx-auto">
     <AboutClients />
-  </div>
+  </div> -->
 
   <AboutTestimonials />
 </template>

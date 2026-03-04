@@ -49,14 +49,14 @@ const isRtl=computed(() => rtlLocales.includes(locale.value));
           </p>
 
           <div :class="['mt-8 flex flex-col sm:flex-row gap-3 sm:gap-4', isRtl ? 'sm:flex-row-reverse' : '']">
-            <NuxtLink :to="localePath('/contact')"
+            <a href="https://www.fiverr.com/emilygarden" target="_blank"
               class="inline-flex items-center justify-center rounded-xl bg-blue-600 hover:bg-blue-500 text-white px-6 py-3 font-medium shadow-sm transition">
               {{ t('Contact') }}
-            </NuxtLink>
-            <a :href="configs.cv_path" download
+            </a>
+            <!-- <a :href="configs.cv_path" download
               class="inline-flex items-center justify-center rounded-xl border border-ternary-light/70 dark:border-ternary-dark/80 bg-white/60 dark:bg-ternary-dark/40 backdrop-blur px-6 py-3 font-medium text-primary-dark dark:text-primary-light hover:bg-white/80 dark:hover:bg-ternary-dark/60 transition">
               {{ t('Download CV') }}
-            </a>
+            </a> -->
           </div>
 
           <div class="mt-10 flex flex-wrap gap-2">

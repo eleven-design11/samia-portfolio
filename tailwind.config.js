@@ -18,13 +18,15 @@ module.exports={
 				poppins: ['Poppins', 'sans-serif'],
 			},
 			colors: {
-				'primary-light': '#F7F8FC',
-				'secondary-light': '#FFFFFF',
-				'ternary-light': '#f6f7f8',
+				// Girly light theme
+				'primary-light': '#FFE4F3', // soft pastel pink
+				'secondary-light': '#FFF7FB', // very light pink background
+				'ternary-light': '#F5E9FF', // soft lavender
 
-				'primary-dark': '#051c28',
-				'secondary-dark': '#102D44',
-				'ternary-dark': '#1E3851',
+				// Girly dark theme
+				'primary-dark': '#2A1138', // deep purple
+				'secondary-dark': '#4B154F', // rich magenta-purple
+				'ternary-dark': '#5B2A86', // vibrant violet
 			},
 			container: {
 				padding: {
