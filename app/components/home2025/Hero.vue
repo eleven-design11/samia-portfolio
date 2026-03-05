@@ -36,7 +36,7 @@ const isRtl=computed(() => rtlLocales.includes(locale.value));
           ]">
             {{ t('HiIam') }}
             <span
-              class="block text-transparent bg-clip-text bg-gradient-to-r from-blue-500 via-violet-500 to-fuchsia-500">
+              class="hero-name-stroke block text-transparent bg-clip-text bg-gradient-to-r from-blue-500 via-violet-500 to-fuchsia-500">
               {{ t('Samia Boudjema') }}
             </span>
           </h1>
@@ -94,4 +94,23 @@ const isRtl=computed(() => rtlLocales.includes(locale.value));
   </section>
 </template>
 
-<style scoped></style>
+<style scoped>
+.hero-name-stroke {
+  -webkit-text-stroke: 2px rgba(255, 255, 255, 0.95);
+  text-stroke: 2px rgba(255, 255, 255, 0.95);
+}
+
+@supports not (-webkit-text-stroke: 1px #fff) {
+  .hero-name-stroke {
+    text-shadow:
+      -1px -1px 0 rgba(255, 255, 255, 0.95),
+      0 -1px 0 rgba(255, 255, 255, 0.95),
+      1px -1px 0 rgba(255, 255, 255, 0.95),
+      -1px 0 0 rgba(255, 255, 255, 0.95),
+      1px 0 0 rgba(255, 255, 255, 0.95),
+      -1px 1px 0 rgba(255, 255, 255, 0.95),
+      0 1px 0 rgba(255, 255, 255, 0.95),
+      1px 1px 0 rgba(255, 255, 255, 0.95);
+  }
+}
+</style>
